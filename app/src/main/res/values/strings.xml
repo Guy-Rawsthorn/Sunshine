@@ -144,4 +144,6 @@
     <!--Used by SunshinePreferences-->
     <!-- - - - - - - - - - - - - - -->
     <!--NONE-->
+
+    <string name="error_message">Results were not found, please try again.</string>
 </resources>
